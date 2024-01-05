@@ -72,7 +72,9 @@
     --card-border-rgb: 200, 200, 200;
   }
 }
-
+.react-responsive-modal-modal {
+  background: black !important;
+}
 * {
   box-sizing: border-box;
   padding: 0;
